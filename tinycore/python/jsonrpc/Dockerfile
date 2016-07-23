@@ -1,2 +1,2 @@
 FROM tatsushid/tinycore-python
-RUN pip install json-rpc
+RUN pip install json-rpc werkzeug
